@@ -35,9 +35,9 @@
 ## Data
 
 ### Privacy Audit will have a model for each user that will store:
-  *email
-  *password
-  *as many secondary emails, phone numbers, or aliases as they'd like to audit. 
+  * email
+  * password
+  * as many secondary emails, phone numbers, or aliases as they'd like to audit. 
 
 ## Schedule
 
