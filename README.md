@@ -2,11 +2,15 @@
 
 ## Understand where you're vulnerable online
 
-### Overview
+### By Ross Zeiger
+### Capstone Project for PDX Code Guild
+### August 2021
+
+## Overview
 
 #### Privacy Audit is a compilation of Open Source tools that allow users to input their information to see where they are vulnerable.
 
-### Features
+## Features
 
 #### Users will be walked through the Privacy Audit in this order:
 
@@ -20,11 +24,11 @@
 
 #### Further iterations of this project will have features to actively improve your privacy and security posture such as a random password generator, a feature to send masked emails and texts, and a library of links to resources that will further their privacy and security.
 
-### Data
+## Data
 
 #### Privacy Audit will have a model for each user that will store their email, password, and as many secondary emails, phone numbers, or aliases as they'd like to audit. 
 
-### Schedule
+## Schedule
 
 #### 1. August 6: Proposal submitted. Draft up layout for site. Plan how to build features.
 #### 2. August 9-10: Build the framework for the project.
